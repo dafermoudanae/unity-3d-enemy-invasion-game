@@ -2,10 +2,7 @@
 
 A 3D shooter game built in Unity with C#. The player defends against waves of invading enemies.
 
-## Team
 
-- Δαφέρμου Χριστίνα Δανάη (5206)
-- Παναγού Θεόφιλος (5319)
 
 ## Project Structure
 
